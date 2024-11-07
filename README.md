@@ -14,7 +14,7 @@ Thank you! 😊</p>
 
 <div type="center">
   <a href="https://github.com/sangmin102"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=sangmin102&show_icons=true&bg_color=00000000" alt="SOKURI's github stats" /></a>
-  <a href="https://github.com/sangmin102"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangmin102&layout=donut&bg_color=00000000" /></a>
+  <a href="https://github.com/sangmin102"><img align="center" style="height:180px width:300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangmin102&layout=donut&bg_color=00000000" /></a>
 </div> 
 
 
