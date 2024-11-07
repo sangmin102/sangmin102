@@ -9,8 +9,9 @@ I enjoy coding and am working hard to improve my skills.<br>
 Thank you! 😊</p>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangmin102&show_icons=true&bg_color=00000000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangmin102&show_icons=true&bg_color=00000000$type="center")
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangmin102&layout=donut&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+
 <br>
 <br>
 
