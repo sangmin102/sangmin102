@@ -14,7 +14,7 @@ Thank you! 😊</p>
 
 <div>
   <h1 align="center">📚 My Stack</h1>
-  <img alt="Html" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
+  <img alt="Html" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> 
 </div>
 
 
