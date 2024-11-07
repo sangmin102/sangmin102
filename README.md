@@ -9,4 +9,4 @@ I enjoy coding and am working hard to improve my skills.<br>
 Thank you! 😊</p>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
